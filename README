@@ -1,0 +1,17 @@
+KOMPAJLIRANJE:
+
+Za komplajliranje programa potrebno je u terminalu uneti:
+
+$ gcc -o [naziv] [putanja do direktorijuma]/proc.c [putanja do direktorijuma]/proclib.c 
+
+Primer:
+
+$ gcc -o app prog.c proclib.c
+
+POKRETANJE:
+
+Za pokretanje programa potrebno je uneti:
+
+$ [putanja do direktorijuma]/app (iz proslog primera).
+
+
